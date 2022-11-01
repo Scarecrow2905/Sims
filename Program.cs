@@ -11,7 +11,7 @@
 
 
 // 3 Modes: FamilyMode, BuildMode and PlayMode
-// User should be able to add familymembers, and those can be either kids or adults
+// User should be able to add family members, and those can be either kids or adults
 
 
 // Classes
@@ -24,4 +24,6 @@
 // Room
 // Floor
 
-// 
+// Sim
+// Adult
+// Kid 
