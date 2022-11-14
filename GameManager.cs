@@ -2,5 +2,10 @@ namespace Sims;
 
 public class GameManager
 {
-    private GameManager()
+
+    private readonly Sims _sims;
+    public GameManager()
+    {
+        
+    }
 }

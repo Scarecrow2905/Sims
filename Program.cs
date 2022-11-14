@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            
+            Sims sims = new Sims();
         }
     }
 }
