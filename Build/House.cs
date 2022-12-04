@@ -1,3 +1,5 @@
+using Sims.Build;
+
 namespace Sims;
 
 public class House
